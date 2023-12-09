@@ -1,0 +1,18 @@
+@media (max-width:767px) {
+    .circle-mobile{
+        flex-wrap: wrap !important;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        gap: 20px;
+        .daily-circle{
+            width: 9rem;
+            height: 9rem;
+        }
+        .main-circle{
+            width: 8rem;
+            height: 8rem;
+        }
+    }
+    
+}
